@@ -3,7 +3,6 @@
 A REST and GraphQL api driven online service for running narrative roleplaying games.
 
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 ![GitHub License](https://img.shields.io/github/license/damwaingames/narrative-pursuits)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/damwaingames/narrative-pursuits)
 
